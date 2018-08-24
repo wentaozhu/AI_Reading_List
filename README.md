@@ -4,6 +4,7 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 ### 2018-08-24
 1. A way to visulize data with scatter plot, boxplot and histogram. Raincloud plots: a multi-platform tool for robust data visualization (https://github.com/RainCloudPlots/RainCloudPlots)
 2. Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning (http://timdettmers.com/2018/08/21/which-gpu-for-deep-learning/)
+3. SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation (https://arxiv.org/abs/1808.07512)
 
 ### 2018-08-23
 1. CentralNet: a Multilayer Approach for Multimodal Fusion (https://arxiv.org/pdf/1808.07275v1.pdf)
