@@ -1,6 +1,10 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-08-24
+1. A way to visulize data with scatter plot, boxplot and histogram. Raincloud plots: a multi-platform tool for robust data visualization (https://github.com/RainCloudPlots/RainCloudPlots)
+
+
 ### 2018-08-23
 1. CentralNet: a Multilayer Approach for Multimodal Fusion (https://arxiv.org/pdf/1808.07275v1.pdf)
 2. Ten simple rules for structuring papers (http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
