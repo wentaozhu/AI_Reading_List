@@ -3,6 +3,7 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 
 ### 2018-08-27
 1. The Matrix Calculus You Need For Deep Learning (http://explained.ai/matrix-calculus/index.html)
+2. I Don't Like Notebooks (https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g362da58057_0_1)
 
 ### 2018-08-24
 1. A way to visulize data with scatter plot, boxplot and histogram. Raincloud plots: a multi-platform tool for robust data visualization (https://github.com/RainCloudPlots/RainCloudPlots)
