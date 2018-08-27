@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-08-27
+1. The Matrix Calculus You Need For Deep Learning (http://explained.ai/matrix-calculus/index.html)
+
 ### 2018-08-24
 1. A way to visulize data with scatter plot, boxplot and histogram. Raincloud plots: a multi-platform tool for robust data visualization (https://github.com/RainCloudPlots/RainCloudPlots)
 2. Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning (http://timdettmers.com/2018/08/21/which-gpu-for-deep-learning/)
