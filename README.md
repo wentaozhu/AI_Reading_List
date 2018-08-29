@@ -3,7 +3,7 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 
 
 ### 2018-08-28
-1. Convolutional Neural Networks with Recurrent Neural Filters (https://arxiv.org/abs/1808.09315)
+1. Convolutional Neural Networks with Recurrent Neural Filters (paper: https://arxiv.org/abs/1808.09315 github:https://github.com/bloomberg/cnn-rnf)
 
 ### 2018-08-27
 1. The Matrix Calculus You Need For Deep Learning (http://explained.ai/matrix-calculus/index.html)
