@@ -1,6 +1,10 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+
+### 2018-08-28
+1. Convolutional Neural Networks with Recurrent Neural Filters (https://arxiv.org/abs/1808.09315)
+
 ### 2018-08-27
 1. The Matrix Calculus You Need For Deep Learning (http://explained.ai/matrix-calculus/index.html)
 2. I Don't Like Notebooks (https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g362da58057_0_1)
