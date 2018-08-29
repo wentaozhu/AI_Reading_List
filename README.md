@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-08-29
+1. How Docker Can Help You Become A More Effective Data Scientist (https://www.kdnuggets.com/2018/01/docker-help-become-more-effective-data-scientist.html)
+2. A Brief Introduction to Machine Learning for Engineers (https://arxiv.org/abs/1709.02840)
 
 ### 2018-08-28
 1. Convolutional Neural Networks with Recurrent Neural Filters (paper: https://arxiv.org/abs/1808.09315 github:https://github.com/bloomberg/cnn-rnf)
