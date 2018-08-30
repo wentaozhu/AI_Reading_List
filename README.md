@@ -1,6 +1,10 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-08-30
+1. Recent Advances for a Better Understanding of Deep Learning (https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914)
+2. Distributed deep learning networks among institutions for medical imaging (https://academic.oup.com/jamia/article/25/8/945/4956468)
+
 ### 2018-08-29
 1. How Docker Can Help You Become A More Effective Data Scientist (https://www.kdnuggets.com/2018/01/docker-help-become-more-effective-data-scientist.html)
 2. A Brief Introduction to Machine Learning for Engineers (https://arxiv.org/abs/1709.02840)
