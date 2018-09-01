@@ -1,6 +1,10 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+
+### 2018-08-31
+1. Winner solutions for Kaggle Avito Demand Prediction Challenge: Dance with Ensemble (https://www.kaggle.com/c/avito-demand-prediction/discussion/59880)
+
 ### 2018-08-30
 1. Recent Advances for a Better Understanding of Deep Learning (https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914)
 2. Distributed deep learning networks among institutions for medical imaging (https://academic.oup.com/jamia/article/25/8/945/4956468)
