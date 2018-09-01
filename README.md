@@ -1,6 +1,8 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-09-01
+1. Geoffrey Hinton's view on DL in healthcare: Deep Learning—A Technology With the Potential to Transform Health Care (https://jamanetwork.com/journals/jama/fullarticle/2701666)
 
 ### 2018-08-31
 1. Winner solutions for Kaggle Avito Demand Prediction Challenge: Dance with Ensemble (https://www.kaggle.com/c/avito-demand-prediction/discussion/59880)
