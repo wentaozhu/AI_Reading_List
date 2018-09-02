@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-09-02
+1. Scipy Lecture Notes: One document to learn numerics, science, and data with Python (http://www.scipy-lectures.org/)
+
 ### 2018-09-01
 1. Geoffrey Hinton's view on DL in healthcare: Deep Learning—A Technology With the Potential to Transform Health Care (https://jamanetwork.com/journals/jama/fullarticle/2701666)
 2. On the Prospects for a (Deep) Learning Health Care System (https://jamanetwork.com/journals/jama/fullarticle/2701667)
