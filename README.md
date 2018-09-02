@@ -4,6 +4,7 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 ### 2018-09-02
 1. Scipy Lecture Notes: One document to learn numerics, science, and data with Python (http://www.scipy-lectures.org/)
 2. A Programmer’s Intuition for Matrix Multiplication (https://betterexplained.com/articles/matrix-multiplication/)
+3. An Interactive Guide To The Fourier Transform (https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 
 ### 2018-09-01
 1. Geoffrey Hinton's view on DL in healthcare: Deep Learning—A Technology With the Potential to Transform Health Care (https://jamanetwork.com/journals/jama/fullarticle/2701666)
