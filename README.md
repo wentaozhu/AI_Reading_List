@@ -1,6 +1,10 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-09-04
+1. How and When to Use a Calibrated Classification Model with scikit-learn (https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/)
+2. An overview of gradient descent optimization algorithms（http://ruder.io/optimizing-gradient-descent/）
+
 ### 2018-09-02
 1. Scipy Lecture Notes: One document to learn numerics, science, and data with Python (http://www.scipy-lectures.org/)
 2. A Programmer’s Intuition for Matrix Multiplication (https://betterexplained.com/articles/matrix-multiplication/)
