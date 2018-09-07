@@ -2,7 +2,8 @@
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
 ### 2018-09-07
-1. Introduction to PyTorch Code Examples from CS230 Deep Learning (https://cs230-stanford.github.io/pytorch-getting-started.html)
+1. How to organize the deep learning project: Introducing the Project Code Examplesfrom CS230 Deep Learning (https://cs230-stanford.github.io/project-code-examples.html)
+2. Introduction to PyTorch Code Examples from CS230 Deep Learning (https://cs230-stanford.github.io/pytorch-getting-started.html)
 
 
 ### 2018-09-06
