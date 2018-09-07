@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-09-07
+1. Introduction to PyTorch Code Examples from CS230 Deep Learning (https://cs230-stanford.github.io/pytorch-getting-started.html)
+
 
 ### 2018-09-06
 1. Realistic Evaluation of Deep Semi-Supervised Learning Algorithms （https://arxiv.org/abs/1804.09170）
