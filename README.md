@@ -1,9 +1,13 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+
+### 2018-09-06
+1. Realistic Evaluation of Deep Semi-Supervised Learning Algorithms （https://arxiv.org/abs/1804.09170）
+2. UK's NHS spent $150M for radiology outsourcing in 2017 (https://www.radiologybusiness.com/topics/policy/nhs-spent-150m-radiology-outsourcing-2017)
+
 ### 2018-09-05
 1. GAN Lab: Play with Generated Adversarial Networks (GANs) in your browser (https://poloclub.github.io/ganlab/)
-
 
 ### 2018-09-04
 1. How and When to Use a Calibrated Classification Model with scikit-learn (https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/)
