@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-09-09
+1. Networking on the Network: A Guide to Professional Skills for PhD Students (https://vlsicad.ucsd.edu/Research/Advice/network.html)
+
 ### 2018-09-07
 1. How to organize the deep learning project: Introducing the Project Code Examplesfrom CS230 Deep Learning (https://cs230-stanford.github.io/project-code-examples.html)
 2. Introduction to PyTorch Code Examples from CS230 Deep Learning (https://cs230-stanford.github.io/pytorch-getting-started.html)
