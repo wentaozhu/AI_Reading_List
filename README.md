@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-09-10
+1. A Gentle Introduction to Matrix Factorization for Machine Learning (https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/)
+
 ### 2018-09-09
 1. Networking on the Network: A Guide to Professional Skills for PhD Students (https://vlsicad.ucsd.edu/Research/Advice/network.html)
 
