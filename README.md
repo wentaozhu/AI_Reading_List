@@ -3,6 +3,7 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 
 ### 2018-09-11
 1. Attention and Augmented Recurrent Neural Networks (https://distill.pub/2016/augmented-rnns/)
+2. Entity Embeddings of Categorical Variables (https://arxiv.org/abs/1604.06737)
 
 ### 2018-09-10
 1. A Gentle Introduction to Matrix Factorization for Machine Learning (https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/)
