@@ -1,6 +1,10 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-09-14
+1. Hamiltonian Descent Methods (https://arxiv.org/abs/1809.05042)
+
+
 ### 2018-09-11
 1. Attention and Augmented Recurrent Neural Networks (https://distill.pub/2016/augmented-rnns/)
 2. Entity Embeddings of Categorical Variables (https://arxiv.org/abs/1604.06737)
