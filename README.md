@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-09-24
+1. GANs for Medical Image Analysis (https://arxiv.org/abs/1809.06222)
+
 ### 2018-09-14
 1. Hamiltonian Descent Methods (https://arxiv.org/abs/1809.05042)
 
