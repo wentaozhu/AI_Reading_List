@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-09-27
+1. Convolution Visualizer (https://ezyang.github.io/convolution-visualizer/index.html)
+
 ### 2018-09-24
 1. GANs for Medical Image Analysis (https://arxiv.org/abs/1809.06222)
 
