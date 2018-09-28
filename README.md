@@ -3,6 +3,7 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 
 ### 2018-09-28
 1. Rules of Machine Learning: Best Practices for ML Engineering (http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+2. Interpretable Machine Learning: A Guide for Making Black Box Models Explainable (https://christophm.github.io/interpretable-ml-book/)
 
 ### 2018-09-27
 1. Convolution Visualizer (https://ezyang.github.io/convolution-visualizer/index.html)
