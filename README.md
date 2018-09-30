@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-09-29
+1. How and When to Use ROC Curves and Precision-Recall Curves for Classification in Python (https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)
+
 ### 2018-09-28
 1. Rules of Machine Learning: Best Practices for ML Engineering (http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 2. Interpretable Machine Learning: A Guide for Making Black Box Models Explainable (https://christophm.github.io/interpretable-ml-book/)
