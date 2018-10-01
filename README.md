@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-10-01
+1. The Essential NLP Guide for data scientists (with codes for top 10 common NLP tasks) (https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/)
+
 ### 2018-09-29
 1. How and When to Use ROC Curves and Precision-Recall Curves for Classification in Python (https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)
 
