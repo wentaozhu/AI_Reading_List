@@ -3,6 +3,9 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 
 ### 2018-10-01
 1. The Essential NLP Guide for data scientists (with codes for top 10 common NLP tasks) (https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/)
+2. An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec (https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
+3. word2vec Parameter Learning Explained (https://arxiv.org/abs/1411.2738)
+4. word embedding visual inspector (https://ronxin.github.io/wevi/)
 
 ### 2018-09-29
 1. How and When to Use ROC Curves and Precision-Recall Curves for Classification in Python (https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)
