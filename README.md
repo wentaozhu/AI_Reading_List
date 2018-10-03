@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-10-03
+1. Neural Networks, Manifolds, and Topology (http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
+
 ### 2018-10-01
 1. The Essential NLP Guide for data scientists (with codes for top 10 common NLP tasks) (https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/)
 2. An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec (https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
