@@ -4,6 +4,7 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 ### 2018-10-05
 1. Convolution: An Exploration of a Familiar Operator’s Deeper Roots (https://towardsdatascience.com/convolution-a-journey-through-a-familiar-operators-deeper-roots-2e3311f23379)
 2. Neural Network Embeddings Explained (https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526)
+3. Embedding Projector (https://projector.tensorflow.org/)
 
 ### 2018-10-03
 1. Neural Networks, Manifolds, and Topology (http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
