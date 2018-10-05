@@ -1,8 +1,11 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-10-05
+1. Convolution: An Exploration of a Familiar Operator’s Deeper Roots (https://towardsdatascience.com/convolution-a-journey-through-a-familiar-operators-deeper-roots-2e3311f23379)
+
 ### 2018-10-03
-1. Neural Networks, Manifolds, and Topology (http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
+1. Neural Networks, Manifolds, and Topology (http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 ### 2018-10-01
 1. The Essential NLP Guide for data scientists (with codes for top 10 common NLP tasks) (https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/)
