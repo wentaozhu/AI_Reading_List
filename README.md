@@ -1,6 +1,10 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-10-16
+1. Write Better Python Functions (https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/)
+2. Stop Installing Tensorflow using pip for performance sake (https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c)
+
 ### 2018-10-05
 1. Convolution: An Exploration of a Familiar Operator’s Deeper Roots (https://towardsdatascience.com/convolution-a-journey-through-a-familiar-operators-deeper-roots-2e3311f23379)
 2. Neural Network Embeddings Explained (https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526)
