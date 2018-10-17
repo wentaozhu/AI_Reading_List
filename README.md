@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-10-17
+1. Natural Language Patrick (https://www.patricklewis.io/)
+
 ### 2018-10-16
 1. Write Better Python Functions (https://jeffknupp.com/blog/2018/10/11/write-better-python-functions/)
 2. Stop Installing Tensorflow using pip for performance sake (https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c)
