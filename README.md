@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-10-19
+1. Relational inductive biases, deep learning, and graph networks (https://arxiv.org/abs/1806.01261)
+
 ### 2018-10-17
 1. Natural Language Patrick (https://www.patricklewis.io/)
 
