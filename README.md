@@ -1,6 +1,10 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-10-21
+1. Automated system identifies dense tissue, a risk factor for breast cancer, in mammograms (http://news.mit.edu/2018/AI-identifies-dense-tissue-breast-cancer-mammograms-1016)
+2. Applying Deep Learning to Metastatic Breast Cancer Detection (https://ai.googleblog.com/2018/10/applying-deep-learning-to-metastatic.html)
+
 ### 2018-10-20
 1. 11 Classical Time Series Forecasting Methods in Python (https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 
