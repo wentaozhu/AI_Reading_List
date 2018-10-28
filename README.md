@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-10-27
+1. Multi-Task Learning as Multi-Objective Optimization (https://arxiv.org/abs/1810.04650)
+
 ### 2018-10-22
 1. Discrete Fourier Transform (https://web.cs.wpi.edu/~emmanuel/courses/cs545/S14/slides/lecture10.pdf)
 2. GRAPH CONVOLUTIONAL NETWORKS (http://tkipf.github.io/graph-convolutional-networks/)
