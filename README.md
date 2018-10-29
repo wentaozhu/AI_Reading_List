@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-10-28
+1. Introduction to Applied Linear Algebra (https://web.stanford.edu/~boyd/vmls/)
+
 ### 2018-10-27
 1. Multi-Task Learning as Multi-Objective Optimization (https://arxiv.org/abs/1810.04650)
 
