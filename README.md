@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-03
+1. Learning deep representations by mutual information estimation and maximization (https://arxiv.org/abs/1808.06670)
+
 ### 2018-10-31
 1. Password Cracker - Generating Passwords with Recurrent Neural Networks (LSTMs) (https://towardsdatascience.com/password-cracker-generating-passwords-with-recurrent-neural-networks-lstms-9583714a3310)
 2. RL — Proximal Policy Optimization (PPO) Explained (https://medium.com/@jonathan_hui/rl-proximal-policy-optimization-ppo-explained-77f014ec3f12)
