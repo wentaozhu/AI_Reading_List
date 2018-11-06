@@ -1,7 +1,7 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
-### 2018-11-035
+### 2018-11-05
 1. W-Net: A Deep Model for Fully Unsupervised Image Segmentation (https://arxiv.org/abs/1711.08506)
 
 ### 2018-11-03
