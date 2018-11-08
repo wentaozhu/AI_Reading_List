@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-08
+1. Predicting Customer Churn for a Telecom Company (https://towardsdatascience.com/cutting-the-cord-predicting-customer-churn-for-a-telecom-company-268e65f177a5)
+
 ### 2018-11-05
 1. W-Net: A Deep Model for Fully Unsupervised Image Segmentation (https://arxiv.org/abs/1711.08506)
 
