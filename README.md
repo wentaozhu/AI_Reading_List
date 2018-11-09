@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-09
+1. OpenAI RL tutorial: Spinning Up in Deep RL (https://blog.openai.com/spinning-up-in-deep-rl/)
+
 ### 2018-11-08
 1. Predicting Customer Churn for a Telecom Company (https://towardsdatascience.com/cutting-the-cord-predicting-customer-churn-for-a-telecom-company-268e65f177a5)
 2. Solving 2048 with Monte-Carlo Tree Search (MCTS) AI (https://towardsdatascience.com/2048-solving-2048-with-monte-carlo-tree-search-ai-2dbe76894bab)
