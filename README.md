@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-12
+1. Deep RL Bootcamp (https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
 ### 2018-11-11
 1. Tic Tac Toe - Creating Unbeatable AI with Minimax Algorithm (https://towardsdatascience.com/tic-tac-toe-creating-unbeatable-ai-with-minimax-algorithm-8af9e52c1e7d)
 
