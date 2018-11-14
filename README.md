@@ -1,6 +1,10 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+
+### 2018-11-13
+1. Automated Feature Engineering: Feature Engineering: What Powers Machine Learning (https://towardsdatascience.com/feature-engineering-what-powers-machine-learning-93ab191bcc2d)
+
 ### 2018-11-12
 1. Deep RL Bootcamp (https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
