@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-10
+1. RL — The Math behind TRPO & PPO (https://medium.com/@jonathan_hui/rl-the-math-behind-trpo-ppo-d12f6c745f33)
+
 ### 2018-11-09
 1. OpenAI RL tutorial: Spinning Up in Deep RL (https://blog.openai.com/spinning-up-in-deep-rl/)
 
