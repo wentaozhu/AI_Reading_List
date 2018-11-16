@@ -1,6 +1,8 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-16
+1. Writing Flexible Code with the Single Responsibility Principle (https://medium.com/@severinperez/writing-flexible-code-with-the-single-responsibility-principle-b71c4f3f883f)
 
 ### 2018-11-13
 1. Automated Feature Engineering: Feature Engineering: What Powers Machine Learning (https://towardsdatascience.com/feature-engineering-what-powers-machine-learning-93ab191bcc2d)
