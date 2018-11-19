@@ -2,7 +2,7 @@
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
 ### 2018-11-18
-1. Entity Embeddings of Categorical Variables (https://arxiv.org/pdf/1604.06737v1.pdf)
+1. Entity Embeddings of Categorical Variables (https://arxiv.org/abs/1604.06737)
 
 ### 2018-11-17
 1. On learning embeddings for categorical data using Keras (https://medium.com/@satnalikamayank12/on-learning-embeddings-for-categorical-data-using-keras-165ff2773fc9)
