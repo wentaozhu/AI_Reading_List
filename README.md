@@ -3,6 +3,7 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 
 ### 2018-11-20
 1. What is GloVe? (https://towardsdatascience.com/emnlp-what-is-glove-part-i-3b6ce6a7f970)
+2. How to train Neural Network faster with optimizers? (https://towardsdatascience.com/how-to-train-neural-network-faster-with-optimizers-d297730b3713)
 
 ### 2018-11-18
 1. Entity Embeddings of Categorical Variables (https://arxiv.org/abs/1604.06737)
