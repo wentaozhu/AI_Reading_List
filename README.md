@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-20
+1. What is GloVe? (https://towardsdatascience.com/emnlp-what-is-glove-part-i-3b6ce6a7f970)
+
 ### 2018-11-18
 1. Entity Embeddings of Categorical Variables (https://arxiv.org/abs/1604.06737)
 
