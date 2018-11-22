@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-21
+1. Implementation of Cluster Centroid based Majority Under-sampling Technique (CCMUT) in Python (https://towardsdatascience.com/implementation-of-cluster-centroid-based-majority-under-sampling-technique-ccmut-in-python-f006a96ed41c)
+
 ### 2018-11-20
 1. What is GloVe? (https://towardsdatascience.com/emnlp-what-is-glove-part-i-3b6ce6a7f970)
 2. How to train Neural Network faster with optimizers? (https://towardsdatascience.com/how-to-train-neural-network-faster-with-optimizers-d297730b3713)
