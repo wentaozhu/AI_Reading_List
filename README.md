@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-23
+1. Python Decorators (https://www.programiz.com/python-programming/decorator)
+
 ### 2018-11-22
 1. Understanding binary cross-entropy / log loss: a visual explanation (https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
 
