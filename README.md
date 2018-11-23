@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-22
+1. Understanding binary cross-entropy / log loss: a visual explanation (https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
+
 ### 2018-11-21
 1. Implementation of Cluster Centroid based Majority Under-sampling Technique (CCMUT) in Python (https://towardsdatascience.com/implementation-of-cluster-centroid-based-majority-under-sampling-technique-ccmut-in-python-f006a96ed41c)
 
