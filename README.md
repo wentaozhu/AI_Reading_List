@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-24
+1. Advanced Deep Learning & Reinforcement Learning course by DeepMind (https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
 ### 2018-11-23
 1. Python Decorators (https://www.programiz.com/python-programming/decorator)
 
