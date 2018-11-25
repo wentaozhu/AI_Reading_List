@@ -5,6 +5,7 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 1. Advanced Deep Learning & Reinforcement Learning course by DeepMind (https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 2. Cookiecutter Data Science (https://drivendata.github.io/cookiecutter-data-science/)
 A logical, reasonably standardized, but flexible project structure for doing and sharing data science work
+3. Cookiecutter Data Science — Organize your Projects (https://medium.com/@rrfd/cookiecutter-data-science-organize-your-projects-atom-and-jupyter-2be7862f487e)
 
 ### 2018-11-23
 1. Python Decorators (https://www.programiz.com/python-programming/decorator)
