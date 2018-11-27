@@ -1,6 +1,10 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-26
+1. Named Entity Recognition and Classification with Scikit-Learn (https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2)
+2. RetinaNet: how Focal Loss fixes Single-Shot Detection (https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de)
+
 ### 2018-11-24
 1. Advanced Deep Learning & Reinforcement Learning course by DeepMind (https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 2. Cookiecutter Data Science (https://drivendata.github.io/cookiecutter-data-science/)
