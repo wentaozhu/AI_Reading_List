@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-28
+1. Speed Up your Algorithms Part 1 — PyTorch (https://towardsdatascience.com/speed-up-your-algorithms-part-1-pytorch-56d8a4ae7051)
+
 ### 2018-11-27
 1. Solving the Multi-Armed Bandit Problem (https://medium.com/@jonathan_hui/meta-learning-how-we-address-the-shortcomings-of-our-deep-networks-a008aa4b5b2b)
 
