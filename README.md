@@ -6,6 +6,7 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 2. Grokking PyTorch (https://github.com/Kaixhin/grokking-pytorch)
 3. PyTorch Tutorial for Deep Learning Researchers (https://github.com/yunjey/pytorch-tutorial)
 4. Practical Deep Learning with PyTorch (https://www.deeplearningwizard.com/deep_learning/course_progression/)
+5. The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch (https://github.com/ritchieng/the-incredible-pytorch)
 
 ### 2018-11-28
 1. Speed Up your Algorithms Part 1 — PyTorch (https://towardsdatascience.com/speed-up-your-algorithms-part-1-pytorch-56d8a4ae7051)
