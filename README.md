@@ -3,6 +3,7 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 
 ### 2018-11-29
 1. Making Your Neural Network Say “I Don’t Know” — Bayesian NNs using Pyro and PyTorch (https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesian-nns-using-pyro-and-pytorch-b1c24e6ab8cd)
+2. Grokking PyTorch (https://github.com/Kaixhin/grokking-pytorch)
 
 ### 2018-11-28
 1. Speed Up your Algorithms Part 1 — PyTorch (https://towardsdatascience.com/speed-up-your-algorithms-part-1-pytorch-56d8a4ae7051)
