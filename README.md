@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+### 2018-11-30
+1. Primer on Python Decorators (https://realpython.com/primer-on-python-decorators/)
+
 ### 2018-11-29
 1. Making Your Neural Network Say “I Don’t Know” — Bayesian NNs using Pyro and PyTorch (https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesian-nns-using-pyro-and-pytorch-b1c24e6ab8cd)
 2. Grokking PyTorch (https://github.com/Kaixhin/grokking-pytorch)
