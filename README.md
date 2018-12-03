@@ -2,7 +2,8 @@
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
 ### 2018-12-02
-1. Advances in few-shot learning: reproducing results in PyTorch (https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d)
+1. Advances in few-shot learning: a guided tour (https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)
+2. Advances in few-shot learning: reproducing results in PyTorch (https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d)
 
 ### 2018-11-30
 1. Primer on Python Decorators (https://realpython.com/primer-on-python-decorators/)
