@@ -18,6 +18,9 @@ https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-e
 )
 4. If you have not used Hyperopt for optimization, you definitely should try it: An Introductory Example of Bayesian Optimization in Python with Hyperopt (https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0
 )
+5. NeurIPS 2018 tutorial on Unsupervised Deep Learning Part 1 (https://ranzato.github.io/publications/tutorial_deep_unsup_learning_part1_NeurIPS2018.pdf)
+6. NeurIPS 2018 tutorial on Unsupervised Deep Learning Part 2 (https://ranzato.github.io/publications/tutorial_deep_unsup_learning_part2_NeurIPS2018.pdf)
+
 
 ### 2018-12-03
 1. Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs (https://www.youtube.com/watch?v=UwKdNzb_Q6U)
