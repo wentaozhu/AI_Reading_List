@@ -1,6 +1,9 @@
 # AI Reading List
 My everyday reading list about healthcare, AI, machine learning, deep learning, startup
 
+To read:
+https://jalammar.github.io/
+
 ### 2018-12-04
 1. The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) (https://jalammar.github.io/illustrated-bert/?from=timeline&isappinstalled=0)
 
