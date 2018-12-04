@@ -6,6 +6,7 @@ https://jalammar.github.io/
 
 ### 2018-12-04
 1. The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) (https://jalammar.github.io/illustrated-bert/?from=timeline&isappinstalled=0)
+2. A great tool to mointor deep learning papers: Deep Learning Monitor (https://deeplearn.org/)
 
 ### 2018-12-03
 1. Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs (https://www.youtube.com/watch?v=UwKdNzb_Q6U)
