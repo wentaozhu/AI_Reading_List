@@ -4,9 +4,18 @@ My everyday reading list about healthcare, AI, machine learning, deep learning, 
 To read:
 https://jalammar.github.io/
 
+
+https://towardsdatascience.com/reinforcement-learning-demystified-exploration-vs-exploitation-in-multi-armed-bandit-setting-be950d2ee9f6
+
+https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
+
+https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0
+
 ### 2018-12-04
 1. The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) (https://jalammar.github.io/illustrated-bert/?from=timeline&isappinstalled=0)
 2. A great tool to mointor deep learning papers: Deep Learning Monitor (https://deeplearn.org/)
+3. HTTPS explained with carrier pigeons (https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351
+)
 
 ### 2018-12-03
 1. Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs (https://www.youtube.com/watch?v=UwKdNzb_Q6U)
