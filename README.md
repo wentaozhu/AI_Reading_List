@@ -9,6 +9,7 @@ https://towardsdatascience.com/reinforcement-learning-demystified-exploration-vs
 
 https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
+https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
 ### 2018-12-04
 1. The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) (https://jalammar.github.io/illustrated-bert/?from=timeline&isappinstalled=0)
