@@ -9,12 +9,13 @@ https://towardsdatascience.com/reinforcement-learning-demystified-exploration-vs
 
 https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
-https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0
 
 ### 2018-12-04
 1. The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) (https://jalammar.github.io/illustrated-bert/?from=timeline&isappinstalled=0)
 2. A great tool to mointor deep learning papers: Deep Learning Monitor (https://deeplearn.org/)
 3. HTTPS explained with carrier pigeons (https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351
+)
+4. If you have not used Hyperopt for optimization, you definitely should try it: An Introductory Example of Bayesian Optimization in Python with Hyperopt (https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0
 )
 
 ### 2018-12-03
