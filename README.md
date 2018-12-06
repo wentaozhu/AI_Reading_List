@@ -16,6 +16,7 @@ Very good introduction to level set method and how it can be used for image segm
 1. Level Set Method Part I: Introduction (https://wiseodd.github.io/techblog/2016/11/05/levelset-method/)
 2. Level Set Method Part II: Image Segmentation (https://wiseodd.github.io/techblog/2016/11/20/levelset-segmentation/)
 3. Level Set Methods Method (http://www.inf.u-szeged.hu/~kato/teaching/variational/03-Level-Set)
+4. The coursera course has some lectures on level set: Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital (https://www.coursera.org/learn/image-processing/)
 
 ### 2018-12-04
 1. The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) (https://jalammar.github.io/illustrated-bert/?from=timeline&isappinstalled=0)
