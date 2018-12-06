@@ -11,6 +11,11 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2018-12-05
+Very good introduction to level set method and how it can be used for image segmentation
+1. Level Set Method Part I: Introduction (https://wiseodd.github.io/techblog/2016/11/05/levelset-method/)
+2. Level Set Method Part II: Image Segmentation (https://wiseodd.github.io/techblog/2016/11/20/levelset-segmentation/)
+
 ### 2018-12-04
 1. The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) (https://jalammar.github.io/illustrated-bert/?from=timeline&isappinstalled=0)
 2. A great tool to mointor deep learning papers: Deep Learning Monitor (https://deeplearn.org/)
