@@ -11,6 +11,10 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+
+### 2018-12-06
+1. The bayesian optimizer for sklearn: Hyperopt-sklearn (https://hyperopt.github.io/hyperopt-sklearn/)
+
 ### 2018-12-05
 Very good introduction to level set method and how it can be used for image segmentation
 1. Level Set Method Part I: Introduction (https://wiseodd.github.io/techblog/2016/11/05/levelset-method/)
