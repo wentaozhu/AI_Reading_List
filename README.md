@@ -15,6 +15,7 @@ https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-e
 Very good introduction to level set method and how it can be used for image segmentation
 1. Level Set Method Part I: Introduction (https://wiseodd.github.io/techblog/2016/11/05/levelset-method/)
 2. Level Set Method Part II: Image Segmentation (https://wiseodd.github.io/techblog/2016/11/20/levelset-segmentation/)
+3. Level Set Methods Method (http://www.inf.u-szeged.hu/~kato/teaching/variational/03-Level-Set)
 
 ### 2018-12-04
 1. The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) (https://jalammar.github.io/illustrated-bert/?from=timeline&isappinstalled=0)
