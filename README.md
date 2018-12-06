@@ -14,6 +14,8 @@ https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-e
 
 ### 2018-12-06
 1. The bayesian optimizer for sklearn: Hyperopt-sklearn (https://hyperopt.github.io/hyperopt-sklearn/)
+2. Learning to See (https://hms.harvard.edu/news/learning-see)
+3. Image reconstruction by domain-transform manifold learning (https://www.nature.com/articles/nature25988)
 
 ### 2018-12-05
 Very good introduction to level set method and how it can be used for image segmentation
