@@ -12,6 +12,10 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
 
+### 2018-12-08
+1. Active Contour and Level Set for Medical Image Segmentation (http://www.cs.ucf.edu/~bagci/teaching/mic16/lec11.pdf)
+2. Geometric Active Contours (http://web.engr.oregonstate.edu/~sinisa/courses/OSU/CS559/lectures/CS559_3.pdf)
+
 ### 2018-12-06
 1. The bayesian optimizer for sklearn: Hyperopt-sklearn (https://hyperopt.github.io/hyperopt-sklearn/)
 2. Learning to See (https://hms.harvard.edu/news/learning-see)
