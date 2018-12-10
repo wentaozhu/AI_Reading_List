@@ -14,6 +14,7 @@ https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-e
 ### 2018-12-08
 1. Visualizing the Loss Landscape of Neural Nets (https://arxiv.org/abs/1712.09913)
 github (https://github.com/tomgoldstein/loss-landscape)
+2. Stanford Computer Vision courses (http://vision.stanford.edu/teaching.html)
 
 ### 2018-12-08
 1. Active Contour and Level Set for Medical Image Segmentation (http://www.cs.ucf.edu/~bagci/teaching/mic16/lec11.pdf)
