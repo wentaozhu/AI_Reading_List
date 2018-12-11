@@ -19,6 +19,7 @@ Gust Launch (https://faqs.launch.gust.com/category/141-general)
 4. Why Do I Need a Registered Agent? (https://www.legalzoom.com/articles/why-do-i-need-a-registered-agent)
 5. What is an EIN Responsible Party? (https://www.citizen.co/business/ein/what-is-an-ein-responsible-party/)
 6. IRS EIN Responsible Party Requirement (https://www.neumc.org/files/districts/nh+district/2018nhd/2018+emails/ein+responsible+party.pdf)
+7. What Is an Incorporator or Organizer of a Business? (https://www.thebalancesmb.com/what-is-an-incorporator-or-organizer-of-a-business-398297)
 
 ### 2018-12-09
 1. Visualizing the Loss Landscape of Neural Nets (https://arxiv.org/abs/1712.09913)
