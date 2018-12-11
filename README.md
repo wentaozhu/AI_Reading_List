@@ -20,6 +20,7 @@ Gust Launch (https://faqs.launch.gust.com/category/141-general)
 5. What is an EIN Responsible Party? (https://www.citizen.co/business/ein/what-is-an-ein-responsible-party/)
 6. IRS EIN Responsible Party Requirement (https://www.neumc.org/files/districts/nh+district/2018nhd/2018+emails/ein+responsible+party.pdf)
 7. What Is an Incorporator or Organizer of a Business? (https://www.thebalancesmb.com/what-is-an-incorporator-or-organizer-of-a-business-398297)
+8. Reducing startup brain damage: Delaware moves to further streamline corporate processes for emerging companies (https://www.theventurealley.com/2014/05/delaware-streamline-corporate-processesr-for-emerging-companies/)
 
 ### 2018-12-09
 1. Visualizing the Loss Landscape of Neural Nets (https://arxiv.org/abs/1712.09913)
