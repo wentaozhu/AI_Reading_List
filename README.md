@@ -15,7 +15,8 @@ https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-e
 1. This website answers a lot of my questions about how to start a company:
 Gust Launch (https://faqs.launch.gust.com/category/141-general)
 2. Should You Hire a Registered Agent or Be Your Own? (https://www.score.org/resource/should-you-hire-registered-agent-or-be-your-own)
-3. WHAT IS A REGISTERED AGENT? https://howtostartanllc.com/what-is-a-registered-agent
+3. WHAT IS A REGISTERED AGENT? (https://howtostartanllc.com/what-is-a-registered-agent)
+4. Why Do I Need a Registered Agent? (https://www.legalzoom.com/articles/why-do-i-need-a-registered-agent)
 
 ### 2018-12-09
 1. Visualizing the Loss Landscape of Neural Nets (https://arxiv.org/abs/1712.09913)
