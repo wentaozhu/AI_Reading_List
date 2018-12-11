@@ -11,6 +11,10 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2018-12-11
+1. This website answers a lot of my questions about how to start a company:
+Gust Launch (https://faqs.launch.gust.com/category/141-general)
+
 ### 2018-12-09
 1. Visualizing the Loss Landscape of Neural Nets (https://arxiv.org/abs/1712.09913)
 github (https://github.com/tomgoldstein/loss-landscape)
