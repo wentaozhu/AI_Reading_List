@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2018-12-12
+1. Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015 (https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
+
 ### 2018-12-11
 1. This website answers a lot of my questions about how to start a company:
 Gust Launch (https://faqs.launch.gust.com/category/141-general)
