@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2018-12-13
+1. SIGGRAPH Asia Course Notes (2008) (http://www.cs.jhu.edu/~misha/Fall09/SiggraphAsia2008DDGCourse.pdf)
+
 ### 2018-12-12
 1. This is the best lecture about active contour (12b) as well as other image processing techniques: Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015 (https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
 
