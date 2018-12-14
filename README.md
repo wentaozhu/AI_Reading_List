@@ -13,6 +13,7 @@ https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-e
 
 ### 2018-12-13
 1. SIGGRAPH Asia Course Notes (2008) (http://www.cs.jhu.edu/~misha/Fall09/SiggraphAsia2008DDGCourse.pdf)
+2. Discrete Differential Geometry (http://www.cs.jhu.edu/~misha/Fall09/)
 
 ### 2018-12-12
 1. This is the best lecture about active contour (12b) as well as other image processing techniques: Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015 (https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
