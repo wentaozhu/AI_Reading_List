@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2018-12-14
+1. CS4620 Introduction to Computer Graphics (http://www.cs.cornell.edu/courses/cs4620/2017sp/)
+
 ### 2018-12-13
 1. SIGGRAPH Asia Course Notes (2008) (http://www.cs.jhu.edu/~misha/Fall09/SiggraphAsia2008DDGCourse.pdf)
 2. Discrete Differential Geometry (http://www.cs.jhu.edu/~misha/Fall09/)
