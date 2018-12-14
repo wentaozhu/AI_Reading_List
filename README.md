@@ -14,6 +14,7 @@ https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-e
 ### 2018-12-14
 1. CS4620 Introduction to Computer Graphics (http://www.cs.cornell.edu/courses/cs4620/2017sp/)
 2. Computer Vision courses (http://www.cs.ucf.edu/~bagci/teaching.html)
+3. Level	Sets	and	Deformable	Part	Models (http://www.cs.ucf.edu/~bagci/teaching/computervision17/Lec18.pdf)
 
 ### 2018-12-13
 1. SIGGRAPH Asia Course Notes (2008) (http://www.cs.jhu.edu/~misha/Fall09/SiggraphAsia2008DDGCourse.pdf)
