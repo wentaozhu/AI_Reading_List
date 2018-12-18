@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2018-12-18
+1. CAP5415-Computer Vision (FALL 2017) (http://www.cs.ucf.edu/~bagci/teaching/computervision17.html)
+
 ### 2018-12-14
 1. CS4620 Introduction to Computer Graphics (http://www.cs.cornell.edu/courses/cs4620/2017sp/)
 2. Computer Vision courses (http://www.cs.ucf.edu/~bagci/teaching.html)
