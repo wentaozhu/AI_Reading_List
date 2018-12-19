@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2018-12-19
+1. Level Set Methods in Computer Vision (http://www.csd.uwo.ca/~yuri/Presentations/ECCV06_tutorial_partII_dan.pdf)
+
 ### 2018-12-18
 1. CAP5415-Computer Vision (FALL 2017) (http://www.cs.ucf.edu/~bagci/teaching/computervision17.html)
 
