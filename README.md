@@ -13,6 +13,7 @@ https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-e
 
 ### 2018-12-20
 1. MRI: Basic Physics & a Brief History (https://www.youtube.com/watch?v=djAxjtN_7VE)
+2. A Practical Introduction to CT (https://www.youtube.com/watch?v=VnpqylFYtqI)
 
 ### 2018-12-19
 1. Level Set Methods in Computer Vision (http://www.csd.uwo.ca/~yuri/Presentations/ECCV06_tutorial_partII_dan.pdf)
