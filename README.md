@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2018-12-22
+1. K-Space: A way to understand how MRI parameters affect images (https://www.youtube.com/watch?v=QHtZR0mtB80)
+
 ### 2018-12-21
 1. Location of Spatial Frequencies (http://mriquestions.com/locations-in-k-space.html)
 
