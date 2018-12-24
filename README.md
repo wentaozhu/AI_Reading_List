@@ -13,6 +13,7 @@ https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-e
 
 ### 2018-12-23
 1. K-Space (http://mriquestions.com/k-space-basic.html)
+2. Questions and Answers in MRI (http://mriquestions.com/index.html)
 
 ### 2018-12-22
 1. K-Space: A way to understand how MRI parameters affect images (https://www.youtube.com/watch?v=QHtZR0mtB80)
