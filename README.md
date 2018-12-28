@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2018-12-27
+1. Differential equations (https://www.khanacademy.org/math/differential-equations)
+
 ### 2018-12-23
 1. K-Space (http://mriquestions.com/k-space-basic.html)
 2. Questions and Answers in MRI (http://mriquestions.com/index.html)
