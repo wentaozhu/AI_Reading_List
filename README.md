@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2018-12-30
+1. Introduction to Computer Vision (https://classroom.udacity.com/courses/ud810)
+
 ### 2018-12-29
 1. Differential Equations in Action (https://www.udacity.com/course/differential-equations-in-action--cs222)
 
