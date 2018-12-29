@@ -13,6 +13,7 @@ https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-e
 
 ### 2018-12-30
 1. Introduction to Computer Vision (https://classroom.udacity.com/courses/ud810)
+2. EE263: Introduction to Linear Dynamical Systems (http://ee263.stanford.edu/archive/)
 
 ### 2018-12-29
 1. Differential Equations in Action (https://www.udacity.com/course/differential-equations-in-action--cs222)
