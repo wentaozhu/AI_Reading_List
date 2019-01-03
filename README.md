@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2019-01-03
+1. Fundamentals of Biomedical Image Processing (https://elearning.uniroma1.it/pluginfile.php/509402/mod_resource/content/1/9783642158155-c1.pdf)
+
 ### 2018-12-30
 1. Introduction to Computer Vision (https://classroom.udacity.com/courses/ud810)
 2. EE263: Introduction to Linear Dynamical Systems (http://ee263.stanford.edu/archive/)
