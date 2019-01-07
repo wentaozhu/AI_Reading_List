@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2019-01-07
+1. Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with DeepMind (https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning/)
+
 ### 2019-01-04
 1. Reinforcement learning (https://classroom.udacity.com/courses/ud262)
 
