@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2019-01-13
+1. Compressed sensing MRI: a review of the clinical literature (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4984938/)
+
 ### 2019-01-07
 1. CS 294-112 at UC Berkeley Deep Reinforcement Learning (http://rail.eecs.berkeley.edu/deeprlcourse/)
 2. Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with DeepMind (https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning/)
