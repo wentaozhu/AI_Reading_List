@@ -11,6 +11,9 @@ https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
 
+### 2019-01-16
+1. Deep Learning Theory (https://www.youtube.com/playlist?list=PLJV_el3uVTsOh1F5eo9txATa4iww0Kp8K)
+
 ### 2019-01-13
 1. Compressed sensing MRI: a review of the clinical literature (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4984938/)
 
