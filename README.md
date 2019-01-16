@@ -13,6 +13,7 @@ https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-e
 
 ### 2019-01-16
 1. Deep Learning Theory (https://www.youtube.com/playlist?list=PLJV_el3uVTsOh1F5eo9txATa4iww0Kp8K)
+2. Theories of Deep Learning (STATS 385) (https://stats385.github.io/)
 
 ### 2019-01-13
 1. Compressed sensing MRI: a review of the clinical literature (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4984938/)
